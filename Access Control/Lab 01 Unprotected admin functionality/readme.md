@@ -1,4 +1,4 @@
-## Lab Description: Unprotected admin functionality
+## Lab Description: Unprotected admin functionalityh
 
 ![image](https://github.com/jayshah17/PortSwiggerLabs/assets/76842630/ae4f477e-9eeb-4d89-9231-59106135217f)
 
