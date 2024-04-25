@@ -2,7 +2,7 @@
 
 ![image](https://github.com/jayshah17/PortSwiggerLabs/assets/76842630/d968f7ff-f87c-4641-8b88-e77ad0069d65)
 
-## Solution:
+## Solution: 
 
 This lab provides the administrator credentials to analyse the workflow of granting and revoking administrative permissions to users. It basically is just a form to select a user and using an Upgrade or Downgrade button:
 
