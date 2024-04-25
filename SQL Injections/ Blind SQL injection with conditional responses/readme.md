@@ -8,7 +8,7 @@
 Query would be on the following way 
 `SELECT trackingId FROM SomeTable WHERE trackingId = <COOKIE-VALUE> `
 
-Tracking ID = 524haSMyt6Q2CyqW
+Tracking ID = 524haSMyt6Q2CyqW 
 
 Cookie: TrackingId=qkCHjiQ1vFDsyuM9; session=Z45XKTGEiRzjgxX4DI0FghPF7rnC5hsk
 ![image](https://github.com/jayshah17/PortSwiggerLabs/assets/76842630/3e54c7a8-57ea-405d-ad4a-d8f164a4bd83)
