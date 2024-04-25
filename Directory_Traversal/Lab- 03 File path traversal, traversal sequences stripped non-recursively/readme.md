@@ -1,4 +1,4 @@
-## Lab Description:  File path traversal, traversal sequences stripped non-recursively
+## Lab Description:  File path traversal, traversal sequences stripped non-recursively 
 
 ![image](https://github.com/jayshah17/PortSwiggerLabs/assets/76842630/2e3d3ff4-309d-4c1f-ac1b-2f2bf6d71235)
 
