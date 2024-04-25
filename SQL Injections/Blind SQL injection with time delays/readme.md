@@ -5,7 +5,7 @@
 ## Solution: 
 SLEEP command differs for each type of databse, here we find it by trial & error method that it is a POSTgreSQL database
 
-To do this we can use the following payload
+To do this we can use the following payload 
 ```sql
 TrackingId=x'||pg_sleep(10)--
 ```
