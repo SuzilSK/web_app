@@ -8,7 +8,7 @@ We have a functionality to post comments.
 
 ![image](https://github.com/jayshah17/PortSwiggerLabs/assets/76842630/d197609f-1f88-4f0d-b30c-9c9b9261333a)
 
-First i used normal alert payload for stred xss.
+First i used normal alert payload for stred xss. 
 ```
 <script>alert()</script>
 ```
