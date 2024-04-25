@@ -3,7 +3,7 @@
 ![image](https://github.com/jayshah17/PortSwiggerLabs/assets/76842630/01c92468-e540-44ca-8c4b-736162fc93d8)
 
 ## Solution:
-The account page that contains the current user's existing password, prefilled in a masked input. So lets login as wiener to see what the account page has.
+The account page that contains the current user's existing password, prefilled in a masked input. So lets login as wiener to see what the account page has. 
 
 ![image](https://github.com/jayshah17/PortSwiggerLabs/assets/76842630/4401196c-78cc-481a-91ff-1258414ae603)
 
