@@ -4,7 +4,7 @@
 
 ## Solution:
 Confirm that blind sql injection works -
-
+ 
 Modify the cookie value
 ```sql
 TrackingId=x'||pg_sleep(10)--
