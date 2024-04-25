@@ -3,7 +3,7 @@
 ![image](https://github.com/jayshah17/PortSwiggerLabs/assets/76842630/7e6c4b82-441c-4ac8-b028-37787e42de07)
 
 
-## Solution: 
+## Solution:  
 
 Login as admin -
 First lets familiarize ourselves by logging in as admin.
