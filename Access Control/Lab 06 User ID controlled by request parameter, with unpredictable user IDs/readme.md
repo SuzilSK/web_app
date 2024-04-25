@@ -1,4 +1,4 @@
-## Lab Description: User ID controlled by request parameter, with unpredictable user IDs
+## Lab Description: User ID controlled by request parameter, with unpredictable user IDs 
 
 ![image](https://github.com/jayshah17/PortSwiggerLabs/assets/76842630/f8cefa38-063b-4202-b7dd-147623eea6da)
 
