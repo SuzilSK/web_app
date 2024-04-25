@@ -6,7 +6,7 @@ Solution:
 
 First find the database which is used
 
-I want to extract both usernames and passwords, while only having a single string column. For this, I can concatenate multiple values into single fields. The syntax depends on the database engine, so find out which database is used to drive the page.
+I want to extract both usernames and passwords, while only having a single string column. For this, I can concatenate multiple values into single fields. The syntax depends on the database engine, so find out which database is used to drive the page. 
 
 ` +Union+select+null,version()+from+users+-- `
 
