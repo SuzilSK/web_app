@@ -1,4 +1,4 @@
-## Lab Description: User role can be modified in user profile
+## Lab Description: User role can be modified in user profile 
 
 ![image](https://github.com/jayshah17/PortSwiggerLabs/assets/76842630/6cb31fc9-f77f-4499-86b9-265363e3d73f)
 
