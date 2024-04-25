@@ -3,7 +3,7 @@
 ![image](https://github.com/jayshah17/PortSwiggerLabs/assets/76842630/020a7ceb-7fc7-47ff-aab1-8379557773c1)
 
 
-## Solution: 
+## Solution:  
 
 ![image](https://github.com/jayshah17/PortSwiggerLabs/assets/76842630/ccc266ba-f4b6-4797-96ad-214b97568647)
 
