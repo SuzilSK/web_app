@@ -1,4 +1,4 @@
-## Lab Description: File path traversal, validation of start of path
+## Lab Description: File path traversal, validation of start of path 
 
 ![image](https://github.com/jayshah17/PortSwiggerLabs/assets/76842630/7f11949d-d3b5-48eb-90fd-4cdd51d3d5d9)
 
