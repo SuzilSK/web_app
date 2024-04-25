@@ -6,7 +6,7 @@ Solution:
 
 ![image](https://github.com/jayshah17/PortSwiggerLabs/assets/76842630/a26c471c-f708-4c8a-81f0-f27efbc52666)
 
-Here the Query was made as "SELECT * FROM tableName WHERE category = 'Pets'"
+Here the Query was made as "SELECT * FROM tableName WHERE category = 'Pets'" 
 
 As per the requirement of Lab Task we have to add "UNION SELECT NULL --" as payload in query parameters
 but we don't know the number or Columns
