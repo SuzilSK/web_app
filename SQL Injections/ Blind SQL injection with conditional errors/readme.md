@@ -2,7 +2,7 @@
 
 ![image](https://github.com/jayshah17/PortSwiggerLabs/assets/76842630/a5e9dbc3-9ac9-48a0-a87e-becb2368151c)
 
-## Solution:
+## Solution: 
 
 TrackingId=hlYKxh2hpwRNaRUr
 ![image](https://github.com/jayshah17/PortSwiggerLabs/assets/76842630/341af360-9549-4a94-b25f-bcec3e207754)
