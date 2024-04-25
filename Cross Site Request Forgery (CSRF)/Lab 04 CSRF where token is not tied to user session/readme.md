@@ -1,4 +1,4 @@
-## Lab Description: CSRF where token is not tied to user session
+## Lab Description: CSRF where token is not tied to user session 
 
 ![image](https://github.com/jayshah17/PortSwiggerLabs/assets/76842630/d4faf79f-a846-4e69-9075-00f144f22ae0)
 
