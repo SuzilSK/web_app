@@ -9,7 +9,7 @@ In Burp Suite, go to the Proxy tool caputer the request when typing hey
 
 ![image](https://github.com/jayshah17/PortSwiggerLabs/assets/76842630/7e97594a-af6b-4bea-9eb1-1f479127d0c3)
 
-Notice that the string is reflected in a JSON response called search-results.
+Notice that the string is reflected in a JSON response called search-results. 
 
 From the Site Map, open the searchResults.js file and notice that the JSON response is used with an eval() function call.
 
