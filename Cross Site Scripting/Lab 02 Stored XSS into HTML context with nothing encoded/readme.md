@@ -1,4 +1,4 @@
-## Lab Description: Stored XSS into HTML context with nothing encoded
+## Lab Description: Stored XSS into HTML context with nothing encoded 
 
 ![image](https://github.com/jayshah17/PortSwiggerLabs/assets/76842630/0ec346a3-db6d-4ea3-8416-204a9245a0dd)
 
