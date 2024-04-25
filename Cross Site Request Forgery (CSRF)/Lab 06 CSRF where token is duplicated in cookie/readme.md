@@ -1,4 +1,4 @@
-## Lab Description: CSRF where token is duplicated in cookie
+## Lab Description: CSRF where token is duplicated in cookie 
 
 ![Uploading image.png…]()
 
