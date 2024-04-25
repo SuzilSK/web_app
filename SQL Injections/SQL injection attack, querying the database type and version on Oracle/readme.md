@@ -4,7 +4,7 @@
 
 ### Solution:
 
-The SELECT version FROM v$instance only returns the version number, the first one, SELECT banner FROM v$version, returns the full version string that is requested.
+The SELECT version FROM v$instance only returns the version number, the first one, SELECT banner FROM v$version, returns the full version string that is requested. 
 
 Therefore I need to inject `' UNION SELECT 'a',banner FROM v$version--` to obtain the version information with the following query:
 
