@@ -4,7 +4,7 @@
 
 ## Solution:
 
-We have a functionality to post comments.
+We have a functionality to post comments. 
 
 ![image](https://github.com/jayshah17/PortSwiggerLabs/assets/76842630/995e1bf9-860c-4b4f-bcc1-4c329d1a862e)
 
