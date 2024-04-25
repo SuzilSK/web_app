@@ -3,7 +3,7 @@
 ![image](https://github.com/jayshah17/PortSwiggerLabs/assets/76842630/6aeb2e1e-fe7a-4061-a3f8-7deca609de64)
 
 ## Solution: 
-The lab application is a blog website with search functionality.
+The lab application is a blog website with search functionality. 
 
 ![image](https://github.com/jayshah17/PortSwiggerLabs/assets/76842630/cd597bf3-5756-47fc-b727-ad79ac06eddc)
 
