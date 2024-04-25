@@ -8,7 +8,7 @@
 ```sql
 email=jay%40gmail.com||ping+-c+10+127.0.0.1||
 ```
-with ping command we can delay the response by 10 seconds
+with ping command we can delay the response by 10 seconds 
 ![image](https://github.com/jayshah17/PortSwiggerLabs/assets/76842630/113502bb-c43a-4304-833e-b4f673dd005f)
 ```sql
 email=jay%40gmail.com||sleep+10||
