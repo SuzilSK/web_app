@@ -3,7 +3,7 @@
 ![image](https://github.com/jayshah17/PortSwiggerLabs/assets/76842630/41e87dcd-ac77-4956-8e04-c1b80ac0a8fc)
 
 
-## Solution: 
+## Solution:  
 
 If an application requires that the user-supplied filename must end with an expected file extension, such as .png, then it might be possible to use a null byte to effectively terminate the file path before the required extension.
 
