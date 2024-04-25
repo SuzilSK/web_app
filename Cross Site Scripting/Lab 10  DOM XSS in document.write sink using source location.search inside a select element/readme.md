@@ -2,7 +2,7 @@
 
 ![image](https://github.com/jayshah17/PortSwiggerLabs/assets/76842630/8387ce03-c87e-4c6e-a9c7-400990c51ed9)
 
-## Solution:
+## Solution: 
 
     >> The lab application is again the shop website containing the stock check feature. This time, the selection box for it is created dynamically by client side JavaScript. The defining feature that requires this is that if a store ID is provided in the URL, the store is pre-selected. For example, adding &storeId=paris to the URL will put Milan in first place of the list and selects it:
 
