@@ -3,7 +3,7 @@
 ![image](https://github.com/jayshah17/PortSwiggerLabs/assets/76842630/60e40678-7020-4e6a-b0ad-dc706423049a)
 
 
-## Solution:
+## Solution: 
 When the lab website loads, we straighaway see the Admin panel link present.
 
 ![image](https://github.com/jayshah17/PortSwiggerLabs/assets/76842630/8dfa5df7-9494-4723-b9e6-c08722608a95)
