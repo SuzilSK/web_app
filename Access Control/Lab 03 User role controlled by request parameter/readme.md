@@ -1,4 +1,4 @@
-## Lab Description: User role controlled by request parameter
+## Lab Description: User role controlled by request parameter 
 
 ![image](https://github.com/jayshah17/PortSwiggerLabs/assets/76842630/fd98f82a-d7ee-4912-bfdf-19319dc8e03d)
 
