@@ -1,4 +1,4 @@
-## Lab Description: SameSite Strict bypass via sibling domain
+## Lab Description: SameSite Strict bypass via sibling domain 
 
 ![image](https://github.com/jayshah17/PortSwiggerLabs/assets/76842630/e67ce03c-e03b-42a3-ac21-0882e2e65b81)
 
