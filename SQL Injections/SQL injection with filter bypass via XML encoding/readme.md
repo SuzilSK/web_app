@@ -4,7 +4,7 @@
 
 ## Solution: 
 
-There are 2 xml tags where we can inject our sql injection payload ie productID & StoreId.
+There are 2 xml tags where we can inject our sql injection payload ie productID & StoreId. 
 
 When testing sql injection query in productID, we get a response like this
 
