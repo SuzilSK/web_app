@@ -1,4 +1,4 @@
-## Lab Description: User ID controlled by request parameter
+## Lab Description: User ID controlled by request parameter 
 
 ![image](https://github.com/jayshah17/PortSwiggerLabs/assets/76842630/7c2732d9-56a6-42c9-afec-7b1c16f46df2)
 
