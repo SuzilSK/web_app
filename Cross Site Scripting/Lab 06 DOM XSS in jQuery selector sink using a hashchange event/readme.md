@@ -7,7 +7,7 @@
 
 jQuery $ selector function is used to auto-scroll to a post based on the location.hash property
 
-Goals:Deliver an exploit that calls print
+Goals:Deliver an exploit that calls print 
 
 The first step is to analyse the web application. An interesting script can be found at the bottom of the page:
 
