@@ -1,4 +1,4 @@
-## Lab Description: URL-based access control can be circumvented
+## Lab Description: URL-based access control can be circumvented 
 
 
 ## Solution: 
