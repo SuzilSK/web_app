@@ -3,7 +3,7 @@
 ![image](https://github.com/jayshah17/PortSwiggerLabs/assets/76842630/8683b426-1036-420a-86b9-e3b63f357ded)
 
 ## Solution:
-Use Burp Suite to intercept and modify a request that checks the stock level. 
+Use Burp Suite to intercept and modify a request that checks the stock level.  
 ```sql
 Modify the storeID parameter, giving it the value 1|whoami.
 ```
