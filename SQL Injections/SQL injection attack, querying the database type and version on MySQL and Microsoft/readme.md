@@ -4,7 +4,7 @@
 
 ### Solution: 
 
-The difference is that on MySQL (which appears to be used here), a # character is best used for beginning a comment instead of the --.
+The difference is that on MySQL (which appears to be used here), a # character is best used for beginning a comment instead of the --. 
 
 As a result of these steps, I find out that the number of columns is 2, with both being string columns.
 
