@@ -1,7 +1,7 @@
 ## Lab Description: Blind OS command injection with out-of-band interaction
 
 ![image](https://github.com/jayshah17/PortSwiggerLabs/assets/76842630/ebaa0fef-61b9-445a-91dc-c84a41b7c992)
-
+ 
 ## Solution:
 
 ![image](https://github.com/jayshah17/PortSwiggerLabs/assets/76842630/028e0ff1-6323-4f8e-ac1c-17f2e6d6d518)
