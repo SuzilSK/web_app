@@ -1,4 +1,4 @@
-## Lab Description: SameSite Lax bypass via method override
+## Lab Description: SameSite Lax bypass via method override 
 
 ![image](https://github.com/jayshah17/PortSwiggerLabs/assets/76842630/2591f2ef-6cec-4684-ba8c-0798eba59637)
 
