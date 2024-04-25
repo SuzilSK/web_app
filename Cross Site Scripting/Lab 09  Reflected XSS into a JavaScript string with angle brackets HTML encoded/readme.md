@@ -3,7 +3,7 @@
 ![image](https://github.com/jayshah17/PortSwiggerLabs/assets/76842630/74aadbe9-ba8a-42fb-8ee3-ea9c965aad8b)
 
 
-## Solution: 
+## Solution:  
 Submit a random string in the search box.Observe that the random string has been reflected inside a JavaScript string.
 
 ![image](https://github.com/jayshah17/PortSwiggerLabs/assets/76842630/768b8c2a-c612-4daa-90b3-12b29941b68e)
