@@ -1,4 +1,4 @@
-## Lab Description: 
+## Lab Description:  
 
 ![image](https://github.com/jayshah17/PortSwiggerLabs/assets/76842630/92feecab-6680-4a66-baab-851fbef45c35)
 
