@@ -1,7 +1,7 @@
 ## LAb Description: User ID controlled by request parameter with data leakage in redirect
 
 ![image](https://github.com/jayshah17/PortSwiggerLabs/assets/76842630/1138a929-031b-40d4-b5ad-022963884674)
-
+ 
 ## Solution:
 
 In some cases, an application does detect when the user is not permitted to access the resource, and returns a redirect to the login page. However, the response containing the redirect might still include some sensitive data belonging to the targeted user, so the attack is still successful.
