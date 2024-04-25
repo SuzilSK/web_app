@@ -8,7 +8,7 @@ Clicking on the Submit feedback link on the main page of the blog leads to the p
 
 ![image](https://github.com/jayshah17/PortSwiggerLabs/assets/76842630/772c6efd-4e91-4636-8c94-9187d3894990)
 
-back link has vulnerablity the resulting HTML-
+back link has vulnerablity the resulting HTML- 
 
 ![image](https://github.com/jayshah17/PortSwiggerLabs/assets/76842630/bf02e5ee-bd8b-4316-9ea9-17bdf8d6f2ca)
 
