@@ -2,7 +2,7 @@
 
 ![Screenshot 2024-01-27 185316](https://github.com/jayshah17/PortSwiggerLabs/assets/76842630/9036d64c-e8c7-412b-8ce9-c1214b1c682b)
 
-### Solution:
+### Solution: 
 
 Query made -
 
