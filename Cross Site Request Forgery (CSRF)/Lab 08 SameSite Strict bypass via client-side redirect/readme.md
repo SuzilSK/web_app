@@ -1,4 +1,4 @@
-## Lab Description: SameSite Strict bypass via client-side redirect
+## Lab Description: SameSite Strict bypass via client-side redirect 
 
 ![image](https://github.com/jayshah17/PortSwiggerLabs/assets/76842630/c3f982b9-2f6e-4c3e-a588-43a5d1c7668e)
 
