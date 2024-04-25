@@ -1,4 +1,4 @@
-## Lab Description: Reflected XSS into HTML context with most tags and attributes blocked
+## Lab Description: Reflected XSS into HTML context with most tags and attributes blocked 
 
 
 ## Solution: 
