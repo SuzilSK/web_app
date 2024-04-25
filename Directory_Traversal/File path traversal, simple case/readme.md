@@ -7,7 +7,7 @@
 ![image](https://github.com/jayshah17/PortSwiggerLabs/assets/76842630/24d7e9b6-b9e6-4e6e-88fb-6b39d6063b46)
 
 Send the request to Repeater.
-
+ 
 Now in the filename parameter we have to test each payload by traversing back to find the /etc/passwd file.
 
 When we give the payload as `filename=../../etc/passwd` , we cannot get the content as it has not reached to root
