@@ -4,7 +4,7 @@
 
  ## Solution:
 
-### Finding Users Table
+### Finding Users Table 
 
 The database in use here is Oracle, which holds the table information in the all_tables-table.
 I am interested in table_name. So I injected the query as payload ` UNION SELECT table_name, null from all_tables-- `. 
