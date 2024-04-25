@@ -2,7 +2,7 @@
 
 ![image](https://github.com/jayshah17/PortSwiggerLabs/assets/76842630/e9c039c4-be53-4466-8493-3c8df080f10b)
 
-## Solution: 
+## Solution:  
 
 Payload-
 
