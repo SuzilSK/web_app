@@ -2,7 +2,7 @@
 
 ![image](https://github.com/jayshah17/PortSwiggerLabs/assets/76842630/237ec7a5-b018-40d8-b8be-7f007bcd7d1a)
 
-### Solution:
+### Solution: 
 
 I find out that the number of columns is 2, with both being string columns.
 
