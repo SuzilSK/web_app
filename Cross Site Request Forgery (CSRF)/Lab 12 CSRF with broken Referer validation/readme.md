@@ -1,4 +1,4 @@
-## Lab Dewscription: CSRF with broken Referer validation
+## Lab Dewscription: CSRF with broken Referer validation 
 
 ![image](https://github.com/jayshah17/PortSwiggerLabs/assets/76842630/749e92b0-88d0-47cc-9923-e605848ca570)
 
