@@ -4,7 +4,7 @@
 
 ## Solution: 
 
-The request which loads images loooks like ,
+The request which loads images loooks like , 
 
 
 In this lab , the server strips all the directory traversal sequences ../ & also ..%2F..%2F..%2F(double encoding), so to bypass this we can use triple encoding.
