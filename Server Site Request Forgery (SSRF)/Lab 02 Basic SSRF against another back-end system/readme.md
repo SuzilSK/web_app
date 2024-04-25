@@ -2,7 +2,7 @@
 
 ![image](https://github.com/jayshah17/PortSwiggerLabs/assets/76842630/aceea651-e931-400d-8a18-2ac20cd30d95)
 
-## Solution: 
+## Solution:  
 
 Another type of trust relationship that often arises with server-side request forgery is where the application server is able to interact with other back-end systems that are not directly reachable by users.
 ```
