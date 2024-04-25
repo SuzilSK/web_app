@@ -3,7 +3,7 @@
 ![image](https://github.com/jayshah17/PortSwiggerLabs/assets/76842630/174392e2-0c14-4e02-bb76-037412046596)
 
 ## Solution
-We straightaway see a search functionality.
+We straightaway see a search functionality. 
 
 ![image](https://github.com/jayshah17/PortSwiggerLabs/assets/76842630/86764a4d-297a-4191-b403-94225a498945)
 
