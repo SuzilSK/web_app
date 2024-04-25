@@ -1,4 +1,4 @@
-## Lab Description: CSRF where token is tied to non-session cookie
+## Lab Description: CSRF where token is tied to non-session cookie 
 
 ![image](https://github.com/jayshah17/PortSwiggerLabs/assets/76842630/b19ba3ae-575d-407c-9929-704389e773b0)
 
