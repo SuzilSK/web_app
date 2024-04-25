@@ -1,4 +1,4 @@
-## Lab Description: File path traversal, traversal sequences blocked with absolute path bypass
+## Lab Description: File path traversal, traversal sequences blocked with absolute path bypass 
 
 ![image](https://github.com/jayshah17/PortSwiggerLabs/assets/76842630/7fd6f7b9-5f96-4d96-bf74-9d1246ef395e)
 
