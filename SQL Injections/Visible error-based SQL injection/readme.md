@@ -3,7 +3,7 @@
 ![image](https://github.com/jayshah17/PortSwiggerLabs/assets/76842630/cac0be64-5dbf-4781-8dd2-f2ff162d1c96)
 
 
-## Solution: 
+## Solution:  
 
 When clicking on any catgory in products filter, browser sends a GET request with a tracking cookie & a session cookie.
 
