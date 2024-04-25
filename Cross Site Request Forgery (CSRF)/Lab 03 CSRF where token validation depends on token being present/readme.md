@@ -1,4 +1,4 @@
-## Lab Description: CSRF where token validation depends on token being present
+## Lab Description: CSRF where token validation depends on token being present 
 
 ![image](https://github.com/jayshah17/PortSwiggerLabs/assets/76842630/7d27108f-8f6b-4013-8560-d2b234011007)
 
