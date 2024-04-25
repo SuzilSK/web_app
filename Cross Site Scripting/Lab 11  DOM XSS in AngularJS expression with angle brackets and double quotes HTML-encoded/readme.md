@@ -5,7 +5,7 @@
 
 ## Solution: 
 
-This lab mentions AngularJS expressions. I never used it before so a quick google search leads to the respective documentaion on the angular website.
+This lab mentions AngularJS expressions. I never used it before so a quick google search leads to the respective documentaion on the angular website. 
 
 AngularJS expressions are executed in HTML sections inside of nodes containing theng-app attribute. Fortunately, the full HTML body of the page is set as valid scope:
 
